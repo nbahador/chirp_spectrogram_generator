@@ -9,7 +9,7 @@ generator = SpectrogramGenerator(
     num_freq_bins=128,
     max_frequency=100,
     max_chirp_band=30,
-    output_dir=r"F:\Nooshin_personal\manuscript_6\github",
+    output_dir="custom_output_directory",
     labels_file="custom_labels.csv"
 )
 
