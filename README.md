@@ -7,15 +7,17 @@ pip install Attention-Maps-Extraction
 ```
 ---
 
-### Sample Generated Map
+### Sample Generated Spectrogram
 
-<img src="https://github.com/nbahador/chirp_spectrogram_generator/blob/main/Usage_Example/spectrogram_4.png" alt="Sample Generated Spectrogram" width="200" height="200" />
+<img src="https://github.com/nbahador/chirp_spectrogram_generator/blob/main/Usage_Example/spectrogram_4.png" alt="Sample Generated Spectrogram" width="300" height="200" />
 
 ---
 
-```csv
-https://raw.githubusercontent.com/nbahador/chirp_spectrogram_generator/main/Usage_Example/custom_labels.csv
-```
+### Sample Generated Label
+
+| Chirp Start Time (s) | Chirp Start Freq (Hz) | Chirp End Freq (Hz) | Chirp Duration (s) | Chirp Type   |
+|----------------------|-----------------------|---------------------|--------------------|--------------|
+| 38.92107594          | 14.58740744           | 36.84728556         | 10.80687464        | exponential  |
 
 ---
 
