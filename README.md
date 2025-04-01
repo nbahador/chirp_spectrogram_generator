@@ -18,29 +18,17 @@ pip install chirp-spectrogram-generator
         <h4 style="margin-top: 0; color: #5f6368;">💰 Funded by</h4>
         <p>Canadian Neuroanalytics Scholars Program</p>
     </div>
-</div>
-</div>
 
-<div style="background: #f8f9fa; border-radius: 8px; padding: 20px; margin-bottom: 20px; border-left: 4px solid #ea4335;">
-<h2 style="margin-top: 0;">🔗 Dataset Sources</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <div style="flex: 1; min-width: 250px; background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        <h4 style="margin-top: 0;">Research Paper</h4>
+    <div style="flex: 1; min-width: 200px; background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <h4 style="margin-top: 0; color: #5f6368;"> Research Paper</h4>
         <p><a href="https://arxiv.org/pdf/2503.22713">ArXiv Publication</a></p>
     </div>
-</div>
-</div>
 
-<div style="background: #f8f9fa; border-radius: 8px; padding: 20px; margin-bottom: 20px; border-left: 4px solid #673ab7;">
-<h2 style="margin-top: 0;">📄 Citation</h2>
-<div style="background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <p>Bahador, N., & Lankarany, M. (2025). Chirp localization via fine-tuned transformer model: A proof-of-concept study. arXiv preprint arXiv:2503.22713. <a href="https://arxiv.org/pdf/2503.22713">[PDF]</a></p>
-</div>
-</div>
-
-<div style="margin-top: 15px; padding-top: 15px; border-top: 1px solid #e0e0e0;">
-    <h4 style="margin-bottom: 5px;">Dataset Author</h4>
-    <p><a href="https://www.linkedin.com/in/nooshin-bahador-30348950/">Nooshin Bahador</a></p>
+    <div style="flex: 1; min-width: 200px; background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <h4 style="margin-top: 0; color: #5f6368;"> Citation</h4>
+        <p>Bahador, N., & Lankarany, M. (2025). Chirp localization via fine-tuned transformer model: A proof-of-concept study. arXiv preprint arXiv:2503.22713. <a href="https://arxiv.org/pdf/2503.22713">[PDF]</a></p>
+    </div>
+    
 </div>
 </div>
 
