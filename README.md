@@ -7,7 +7,7 @@ pip install chirp-spectrogram-generator
 ```
 ---
 
-#### [100,000 Labeled Chirp Spectrograms – Download on Hugging Face!](https://huggingface.co/datasets/nubahador/ChirpLoc100K___A_Synthetic_Spectrogram_Dataset_for_Chirp_Localization/blob/main/README.md)
+#### [100,000 Labeled Chirp Spectrogram Images – Download on Hugging Face!](https://huggingface.co/datasets/nubahador/ChirpLoc100K___A_Synthetic_Spectrogram_Dataset_for_Chirp_Localization/blob/main/README.md)
 
 <table>
 <tr>
