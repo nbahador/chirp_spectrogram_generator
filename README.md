@@ -23,12 +23,6 @@ Nooshin Bahador
 Canadian Neuroanalytics Scholars Program
 
 </td>
-<td style="vertical-align: top; width: 25%">
-  
-**ArXiv Paper**  
-[Publication](https://arxiv.org/pdf/2503.22713)
-
-</td>
 <td style="vertical-align: top; width: 30%">
   
 **Citation**  
