@@ -9,26 +9,6 @@ pip install chirp-spectrogram-generator
 
 #### [100,000 Generated Chirp Spectrograms with Corresponding Labels – Ready for Your ML/DL Pipeline!](https://huggingface.co/datasets/nubahador/ChirpLoc100K___A_Synthetic_Spectrogram_Dataset_for_Chirp_Localization/blob/main/README.md)
 
----
-
-### Sample Generated Spectrogram
-
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-    <img src="https://github.com/nbahador/chirp_spectrogram_generator/blob/main/Usage_Example/spectrogram_4.png" alt="Sample Generated Spectrogram" width="300" height="200" />
-    <img src="https://github.com/nbahador/chirp_spectrogram_generator/blob/main/Usage_Example/Samples.jpg" alt="Sample Generated Spectrograms" width="400" height="200" />
-</div>
-
----
-
-### Sample Generated Label
-
-| Chirp Start Time (s) | Chirp Start Freq (Hz) | Chirp End Freq (Hz) | Chirp Duration (s) | Chirp Type   |
-|----------------------|-----------------------|---------------------|--------------------|--------------|
-| 38.92107594          | 14.58740744           | 36.84728556         | 10.80687464        | exponential  |
-
-
----
-
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
     <div style="flex: 1; min-width: 200px; background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
         <h4 style="margin-top: 0; color: #5f6368;">🧑‍💻 Curated by</h4>
@@ -93,6 +73,23 @@ pip install chirp-spectrogram-generator
     <p><a href="https://www.linkedin.com/in/nooshin-bahador-30348950/">Nooshin Bahador</a></p>
 </div>
 </div>
+
+---
+
+### Sample Generated Spectrogram
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+    <img src="https://github.com/nbahador/chirp_spectrogram_generator/blob/main/Usage_Example/spectrogram_4.png" alt="Sample Generated Spectrogram" width="300" height="200" />
+    <img src="https://github.com/nbahador/chirp_spectrogram_generator/blob/main/Usage_Example/Samples.jpg" alt="Sample Generated Spectrograms" width="400" height="200" />
+</div>
+
+---
+
+### Sample Generated Label
+
+| Chirp Start Time (s) | Chirp Start Freq (Hz) | Chirp End Freq (Hz) | Chirp Duration (s) | Chirp Type   |
+|----------------------|-----------------------|---------------------|--------------------|--------------|
+| 38.92107594          | 14.58740744           | 36.84728556         | 10.80687464        | exponential  |
 
 ---
 
