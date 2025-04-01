@@ -39,7 +39,7 @@ pip install chirp-spectrogram-generator
 </div>
 
 <div style="margin-top: 15px; padding-top: 15px; border-top: 1px solid #e0e0e0;">
-    <h4 style="margin-bottom: 5px;">Dataset Card Authors</h4>
+    <h4 style="margin-bottom: 5px;">Dataset Author</h4>
     <p><a href="https://www.linkedin.com/in/nooshin-bahador-30348950/">Nooshin Bahador</a></p>
 </div>
 </div>
