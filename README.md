@@ -11,7 +11,7 @@ pip install chirp-spectrogram-generator
 
 <table>
 <tr>
-<td style="vertical-align: top; width: 20%">
+<td style="vertical-align: top; width: 25%">
   
 **🧑‍💻 Curated by**  
 Nooshin Bahador
@@ -23,13 +23,13 @@ Nooshin Bahador
 Canadian Neuroanalytics Scholars Program
 
 </td>
-<td style="vertical-align: top; width: 20%">
+<td style="vertical-align: top; width: 25%">
   
 **📄 Research Paper**  
 [ArXiv Publication](https://arxiv.org/pdf/2503.22713)
 
 </td>
-<td style="vertical-align: top; width: 40%">
+<td style="vertical-align: top; width: 30%">
   
 **Citation**  
 Bahador, N., & Lankarany, M. (2025). Chirp localization via fine-tuned transformer model: A proof-of-concept study. arXiv preprint arXiv:2503.22713. [[PDF]](https://arxiv.org/pdf/2503.22713)
