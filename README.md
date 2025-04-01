@@ -18,17 +18,14 @@ pip install chirp-spectrogram-generator
         <h4 style="margin-top: 0; color: #5f6368;">💰 Funded by</h4>
         <p>Canadian Neuroanalytics Scholars Program</p>
     </div>
-
     <div style="flex: 1; min-width: 200px; background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
         <h4 style="margin-top: 0; color: #5f6368;"> Research Paper</h4>
         <p><a href="https://arxiv.org/pdf/2503.22713">ArXiv Publication</a></p>
     </div>
-
     <div style="flex: 1; min-width: 200px; background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
         <h4 style="margin-top: 0; color: #5f6368;"> Citation</h4>
         <p>Bahador, N., & Lankarany, M. (2025). Chirp localization via fine-tuned transformer model: A proof-of-concept study. arXiv preprint arXiv:2503.22713. <a href="https://arxiv.org/pdf/2503.22713">[PDF]</a></p>
-    </div>
-    
+    </div>    
 </div>
 </div>
 
