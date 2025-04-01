@@ -5,7 +5,9 @@ To install the [`chirp_spectrogram_generator`](https://pypi.org/project/chirp-sp
 ```bash
 pip install chirp-spectrogram-generator
 ```
+---
 
+---
 
 #### [100,000 Generated Chirp Spectrograms with Corresponding Labels – Ready for Your ML/DL Pipeline!](https://huggingface.co/datasets/nubahador/ChirpLoc100K___A_Synthetic_Spectrogram_Dataset_for_Chirp_Localization/blob/main/README.md)
 
