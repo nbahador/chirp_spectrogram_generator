@@ -7,36 +7,25 @@ pip install chirp-spectrogram-generator
 ```
 ---
 
-#### [100,000 Generated Chirp Spectrograms with Corresponding Labels – Ready for Your ML/DL Pipeline!](https://huggingface.co/datasets/nubahador/ChirpLoc100K___A_Synthetic_Spectrogram_Dataset_for_Chirp_Localization/blob/main/README.md)
-
-<table>
-<tr>
-<td width="20%">
-  
-**🧑‍💻 Curated by**  
+<div class="dataset-container">
+100,000 Generated Chirp Spectrograms with Corresponding Labels – Ready for Your ML/DL Pipeline!
+<table> <tr> <td width="20%">
+🧑‍💻 Curated by
 Nooshin Bahador
 
-</td>
-<td width="20%">
-  
-**💰 Funded by**  
+</td> <td width="20%">
+💰 Funded by
 Canadian Neuroanalytics Scholars Program
 
-</td>
-<td width="20%">
-  
-**📄 Research Paper**  
-[ArXiv Publication](https://arxiv.org/pdf/2503.22713)
+</td> <td width="20%">
+📄 Research Paper
+ArXiv Publication
 
-</td>
-<td width="40%">
-  
-**Citation**  
-Bahador, N., & Lankarany, M. (2025). Chirp localization via fine-tuned transformer model: A proof-of-concept study. arXiv preprint arXiv:2503.22713. [[PDF]](https://arxiv.org/pdf/2503.22713)
+</td> <td width="40%">
+Citation
+Bahador, N., & Lankarany, M. (2025). Chirp localization via fine-tuned transformer model: A proof-of-concept study. arXiv preprint arXiv:2503.22713. [PDF]
 
-</td>
-</tr>
-</table>
+</td> </tr> </table></div>
 ---
 
 ### Sample Generated Spectrogram
