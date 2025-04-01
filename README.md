@@ -13,19 +13,19 @@ pip install chirp-spectrogram-generator
 <tr>
 <td style="vertical-align: top; width: 25%">
   
-**🧑‍💻 Curated by**  
+**Curated by**  
 Nooshin Bahador
 
 </td>
 <td style="vertical-align: top; width: 20%">
   
-**💰 Funded by**  
+**Funded by**  
 Canadian Neuroanalytics Scholars Program
 
 </td>
 <td style="vertical-align: top; width: 25%">
   
-**📄 Research Paper**  
+**Research Paper**  
 [ArXiv Publication](https://arxiv.org/pdf/2503.22713)
 
 </td>
