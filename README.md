@@ -7,28 +7,36 @@ pip install chirp-spectrogram-generator
 ```
 ---
 
-<div style="display: flex; flex-direction: column; gap: 15px;">
-    <h4 style="margin: 0;">#### [100,000 Generated Chirp Spectrograms with Corresponding Labels – Ready for Your ML/DL Pipeline!](https://huggingface.co/datasets/nubahador/ChirpLoc100K___A_Synthetic_Spectrogram_Dataset_for_Chirp_Localization/blob/main/README.md)</h4>
-    
-    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-        <div style="flex: 1; min-width: 200px; background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-            <h4 style="margin-top: 0; color: #5f6368;">🧑‍💻 Curated by</h4>
-            <p>Nooshin Bahador</p>
-        </div>
-        <div style="flex: 1; min-width: 200px; background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-            <h4 style="margin-top: 0; color: #5f6368;">💰 Funded by</h4>
-            <p>Canadian Neuroanalytics Scholars Program</p>
-        </div>
-        <div style="flex: 1; min-width: 200px; background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-            <h4 style="margin-top: 0; color: #5f6368;"> Research Paper</h4>
-            <p><a href="https://arxiv.org/pdf/2503.22713">ArXiv Publication</a></p>
-        </div>
-        <div style="flex: 1; min-width: 200px; background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-            <h4 style="margin-top: 0; color: #5f6368;"> Citation</h4>
-            <p>Bahador, N., & Lankarany, M. (2025). Chirp localization via fine-tuned transformer model: A proof-of-concept study. arXiv preprint arXiv:2503.22713. <a href="https://arxiv.org/pdf/2503.22713">[PDF]</a></p>
-        </div>    
-    </div>
-</div>
+#### [100,000 Generated Chirp Spectrograms with Corresponding Labels – Ready for Your ML/DL Pipeline!](https://huggingface.co/datasets/nubahador/ChirpLoc100K___A_Synthetic_Spectrogram_Dataset_for_Chirp_Localization/blob/main/README.md)
+
+<table>
+<tr>
+<td width="25%">
+  
+**🧑‍💻 Curated by**  
+Nooshin Bahador
+
+</td>
+<td width="25%">
+  
+**💰 Funded by**  
+Canadian Neuroanalytics Scholars Program
+
+</td>
+<td width="25%">
+  
+**📄 Research Paper**  
+[ArXiv Publication](https://arxiv.org/pdf/2503.22713)
+
+</td>
+<td width="25%">
+  
+**Citation**  
+Bahador, N., & Lankarany, M. (2025). Chirp localization via fine-tuned transformer model: A proof-of-concept study. arXiv preprint arXiv:2503.22713. [[PDF]](https://arxiv.org/pdf/2503.22713)
+
+</td>
+</tr>
+</table>
 
 ---
 
