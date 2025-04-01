@@ -18,10 +18,6 @@ pip install chirp-spectrogram-generator
         <h4 style="margin-top: 0; color: #5f6368;">💰 Funded by</h4>
         <p>Canadian Neuroanalytics Scholars Program</p>
     </div>
-    <div style="flex: 1; min-width: 200px; background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        <h4 style="margin-top: 0; color: #5f6368;">📜 License</h4>
-        <p>MIT</p>
-    </div>
 </div>
 </div>
 
@@ -29,31 +25,9 @@ pip install chirp-spectrogram-generator
 <h2 style="margin-top: 0;">🔗 Dataset Sources</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
     <div style="flex: 1; min-width: 250px; background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-        <h4 style="margin-top: 0;">GitHub Repository</h4>
-        <p><a href="https://github.com/nbahador/chirp_spectrogram_generator/tree/main">Chirp Spectrogram Generator</a></p>
-    </div>
-    <div style="flex: 1; min-width: 250px; background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
         <h4 style="margin-top: 0;">Research Paper</h4>
         <p><a href="https://arxiv.org/pdf/2503.22713">ArXiv Publication</a></p>
     </div>
-</div>
-</div>
-
-<div style="background: #f8f9fa; border-radius: 8px; padding: 20px; margin-bottom: 20px; border-left: 4px solid #fbbc05;">
-<h2 style="margin-top: 0;">🗂 Dataset Structure</h2>
-<div style="background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 15px;">
-    <h4 style="margin-top: 0;">Content Includes:</h4>
-    <ul>
-        <li>Spectrogram images</li>
-        <li>Corresponding labels including chirp parameters and locations</li>
-        <li>Metadata about generation parameters</li>
-    </ul>
-</div>
-
-<div style="background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4 style="margin-top: 0;">Data Collection and Processing</h4>
-    <p>Data was synthetically generated using the provided Python package, with parameters randomly sampled from physiologically relevant ranges.</p>
-    <p><strong>Repository:</strong> <a href="https://github.com/nbahador/chirp_spectrogram_generator/tree/main">GitHub Package</a></p>
 </div>
 </div>
 
@@ -63,10 +37,6 @@ pip install chirp-spectrogram-generator
     <p>Bahador, N., & Lankarany, M. (2025). Chirp localization via fine-tuned transformer model: A proof-of-concept study. arXiv preprint arXiv:2503.22713. <a href="https://arxiv.org/pdf/2503.22713">[PDF]</a></p>
 </div>
 </div>
-
-<div style="background: #f8f9fa; border-radius: 8px; padding: 20px; border-left: 4px solid #00bcd4;">
-<h2 style="margin-top: 0;">ℹ️ More Information</h2>
-<p>For more information and generation code, visit the <a href="https://github.com/nbahador/chirp_spectrogram_generator/tree/main">GitHub repository</a>.</p>
 
 <div style="margin-top: 15px; padding-top: 15px; border-top: 1px solid #e0e0e0;">
     <h4 style="margin-bottom: 5px;">Dataset Card Authors</h4>
